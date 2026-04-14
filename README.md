@@ -4,12 +4,12 @@ Personal Ruby boilerplate for quick project creation.
 
 ## Contents
 
-- Debug.
-- Editorconfig.
-- Logger.
+- [Debug](https://github.com/ruby/debug).
+- [Editorconfig](https://editorconfig.org).
+- [Logger](https://ruby-doc.org/stdlib/libdoc/logger/rdoc/Logger.html).
 - Ruby-version.
-- RSpec.
-- Rubocop.
-- Simplecov.
-- Yard.
+- [RSpec](https://rspec.info).
+- [Rubocop](https://rubocop.org).
+- [Simplecov](https://github.com/simplecov-ruby/simplecov).
+- [Yard](https://yardoc.org).
 
